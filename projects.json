@@ -50,6 +50,240 @@
         "Basal Ganglia"
       ],
       "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "SpatialTx_BasalGanglia",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/SpatialTx_BasalGanglia.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "patch": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_OPC_Oligo",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_OPC_Oligo.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    }
+    ,
+    {
+      "title": "scSeq_CN_LGE_GABA",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_CN_LGE_GABA.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_Vascular",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_Vascular.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_Immune",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_Immune.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_Astro_Epen",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_Astro_Epen.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_CN_MGE_GABA",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_CN_MGE_GABA.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_F_M_GABA",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_F_M_GABA.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_CN_CGE_GABA",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_CN_CGE_GABA.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_Cx_GABA",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_Cx_GABA.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_GN_GABA_Glut",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_GN_GABA_Glut.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_M_DOPA",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_M_DOPA.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
+    },
+    {
+      "title": "scSeq_F_M_Glut",
+      "group": "Multiome Viewer",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_F_M_Glut.mv",
+      "summary": "",
+      "requiredPlugins": [],
+      "coreVersion": {
+        "major": 1,
+        "minor": 4,
+        "match": 0,
+        "suffix": ""
+      },
+      "tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "date": "2025-07-01 13:00:00"
     }
   ]
 }
