@@ -1,0 +1,21 @@
+{
+  "Projects": [
+    {
+      "Title": "PatchSeq_Neocortex",
+      "Url": "https://osf.io/nj9bh/?action=download",
+      "Summary": "",
+      "RequiredPlugins": [],
+      "CoreVersion": {
+        "Major": 1,
+        "Minor": 4,
+        "Patch": 0,
+        "Suffix": ""
+      },
+      "Tags": [
+        "BICAN",
+        "Basal Ganglia"
+      ],
+      "Date": "2025-07-01 13:00:00"
+    }
+  ]
+}
