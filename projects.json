@@ -2,7 +2,7 @@
   "Projects": [
     {
       "Title": "PatchSeq_Neocortex",
-      "Url": "https://osf.io/nj9bh/?action=download",
+      "Url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/ATACSeq_BasalGanglia.mv",
       "Summary": "",
       "RequiredPlugins": [],
       "CoreVersion": {
