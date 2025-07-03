@@ -36,7 +36,7 @@
     },
     {
       "title": "ATACSeq_BasalGanglia",
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/ATACSeq_BasalGanglia.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/ATACSeq_BasalGanglia.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
