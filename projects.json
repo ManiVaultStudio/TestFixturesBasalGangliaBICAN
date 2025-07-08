@@ -313,6 +313,7 @@
     {
       "title": "scSeq_F_M_Glut",
       "group": "Multiome Viewer",
+      "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_F_M_Glut.mv",
       "summary": "",
       "requiredPlugins": [],
