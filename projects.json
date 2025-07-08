@@ -88,7 +88,28 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+	  "size": "7MB",
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "display": {
+            "resolution": {
+              "horizontal": 3840,
+              "vertical": 2160
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_OPC_Oligo",
