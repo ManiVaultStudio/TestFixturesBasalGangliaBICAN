@@ -2,7 +2,7 @@
   "projects": [
     {
       "title": "PatchSeq_Neocortex",
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/ATACSeq_BasalGanglia.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/PatchSeq_Neocortex.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -18,11 +18,22 @@
       "date": "2025-07-01 13:00:00",
       "size": "131MB",
       "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
+        "minimum": {
+          "ram": "16GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "128GB",
+          "display": {
+            "resolution": {
+              "horizontal": 3840,
+              "vertical": 2160
+            }
           }
         }
       }
@@ -42,17 +53,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "ATACSeq_BasalGanglia",
@@ -70,16 +71,7 @@
         "Basal Ganglia"
       ],
       "date": "2025-07-01 13:00:00",
-      "size": "148MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "size": "148MB"
     },
     {
       "title": "SpatialTx_BasalGanglia",
@@ -96,17 +88,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_OPC_Oligo",
@@ -124,17 +106,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     }
     ,
     {
@@ -153,17 +125,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_Vascular",
@@ -181,17 +143,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_Immune",
@@ -209,17 +161,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_Astro_Epen",
@@ -237,17 +179,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_CN_MGE_GABA",
@@ -265,17 +197,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_F_M_GABA",
@@ -293,17 +215,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_CN_CGE_GABA",
@@ -321,17 +233,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_Cx_GABA",
@@ -349,17 +251,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_GN_GABA_Glut",
@@ -377,17 +269,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_M_DOPA",
@@ -405,17 +287,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     },
     {
       "title": "scSeq_F_M_Glut",
@@ -433,17 +305,7 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00",
-      "size": "131MB",
-      "hardwareRequirements": {
-        "ram": "16GB",
-        "display": {
-          "minimumResolution": {
-            "horizontal": 1920,
-            "vertical": 1080
-          }
-        }
-      }
+      "date": "2025-07-01 13:00:00"
     }
   ]
 }
