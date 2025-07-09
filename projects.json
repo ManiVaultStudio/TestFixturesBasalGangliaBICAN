@@ -29,7 +29,7 @@
           }
         },
         "recommended": {
-          "ram": "128GB",
+          "ram": "256GB",
           "display": {
             "resolution": {
               "horizontal": 3840,
