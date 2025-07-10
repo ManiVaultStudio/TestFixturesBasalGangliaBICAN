@@ -21,6 +21,7 @@
       "hardwareRequirements": {
         "minimum": {
           "ram": "256GB",
+          "storage": "50GB",
           "display": {
             "resolution": {
               "horizontal": 1920,
@@ -30,6 +31,7 @@
         },
         "recommended": {
           "ram": "256GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
@@ -97,6 +99,7 @@
       "hardwareRequirements": {
         "minimum": {
           "ram": "16GB",
+          "storage": "50GB",
           "display": {
             "resolution": {
               "horizontal": 1920,
@@ -106,6 +109,7 @@
         },
         "recommended": {
           "ram": "32GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
