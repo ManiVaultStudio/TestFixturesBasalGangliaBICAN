@@ -76,7 +76,29 @@
         "Basal Ganglia"
       ],
       "date": "2025-07-01 13:00:00",
-      "size": "148MB"
+      "size": "148MB",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "150GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "SpatialTx_BasalGanglia",
@@ -136,7 +158,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     }
     ,
     {
@@ -156,7 +200,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_Vascular",
@@ -175,7 +241,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_Immune",
@@ -194,7 +282,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_Astro_Epen",
@@ -213,7 +323,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_CN_MGE_GABA",
@@ -232,7 +364,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_F_M_GABA",
@@ -251,7 +405,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_CN_CGE_GABA",
@@ -270,7 +446,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_Cx_GABA",
@@ -289,7 +487,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_GN_GABA_Glut",
@@ -308,7 +528,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_M_DOPA",
@@ -327,7 +569,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     },
     {
       "title": "scSeq_F_M_Glut",
@@ -346,7 +610,29 @@
         "BICAN",
         "Basal Ganglia"
       ],
-      "date": "2025-07-01 13:00:00"
+      "date": "2025-07-01 13:00:00",
+      "hardwareRequirements": {
+        "minimum": {
+          "ram": "16GB",
+          "storage": "100GB",
+          "display": {
+            "resolution": {
+              "horizontal": 1920,
+              "vertical": 1080
+            }
+          }
+        },
+        "recommended": {
+          "ram": "32GB",
+          "storage": "200GB",
+          "display": {
+            "resolution": {
+              "horizontal": 2560,
+              "vertical": 1440
+            }
+          }
+        }
+      }
     }
   ]
 }
