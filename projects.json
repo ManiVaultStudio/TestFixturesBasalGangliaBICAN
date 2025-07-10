@@ -20,7 +20,7 @@
       "size": "131MB",
       "hardwareRequirements": {
         "minimum": {
-          "ram": "16GB",
+          "ram": "256GB",
           "display": {
             "resolution": {
               "horizontal": 1920,
