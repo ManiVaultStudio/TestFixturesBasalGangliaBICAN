@@ -32,8 +32,8 @@
           "ram": "256GB",
           "display": {
             "resolution": {
-              "horizontal": 3840,
-              "vertical": 2160
+              "horizontal": 2560,
+              "vertical": 1440
             }
           }
         }
@@ -99,8 +99,8 @@
           "ram": "16GB",
           "display": {
             "resolution": {
-              "horizontal": 1920,
-              "vertical": 1080
+              "horizontal": 2560,
+              "vertical": 1440
             }
           }
         },
