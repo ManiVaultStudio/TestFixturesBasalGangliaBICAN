@@ -3,7 +3,7 @@
     {
       "title": "PatchSeq_Neocortex",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/PatchSeq_Neocortex.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -17,7 +17,6 @@
         "Basal Ganglia"
       ],
       "date": "2025-07-01 13:00:00",
-      "size": "131MB",
       "hardwareRequirements": {
         "minimum": {
           "ram": "256GB",
@@ -44,7 +43,7 @@
     {
       "title": "PatchSeq_BasalGanglia",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/PatchSeq_BasalGanglia.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_BasalGanglia.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -76,7 +75,6 @@
         "Basal Ganglia"
       ],
       "date": "2025-07-01 13:00:00",
-      "size": "148MB",
       "hardwareRequirements": {
         "minimum": {
           "ram": "16GB",
@@ -103,7 +101,7 @@
     {
       "title": "SpatialTx_BasalGanglia",
       "startup": true,
-      "url": ""https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects//SpatialTx_BasalGanglia.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/SpatialTx_BasalGanglia.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -116,7 +114,6 @@
         "BICAN",
         "Basal Ganglia"
       ],
-	  "size": "7MB",
       "date": "2025-07-01 13:00:00",
       "hardwareRequirements": {
         "minimum": {
@@ -145,7 +142,7 @@
       "title": "scSeq_OPC_Oligo",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_OPC_Oligo.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_OPC_Oligo.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -187,7 +184,7 @@
       "title": "scSeq_CN_LGE_GABA",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_CN_LGE_GABA.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_CN_LGE_GABA.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -228,7 +225,7 @@
       "title": "scSeq_Vascular",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_Vascular.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_Vascular.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -269,7 +266,7 @@
       "title": "scSeq_Immune",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_Immune.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_Immune.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -310,7 +307,7 @@
       "title": "scSeq_Astro_Epen",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_Astro_Epen.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_Astro_Epen.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -351,7 +348,7 @@
       "title": "scSeq_CN_MGE_GABA",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_CN_MGE_GABA.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_CN_MGE_GABA.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -392,7 +389,7 @@
       "title": "scSeq_F_M_GABA",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_F_M_GABA.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_F_M_GABA.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -433,7 +430,7 @@
       "title": "scSeq_CN_CGE_GABA",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_CN_CGE_GABA.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_CN_CGE_GABA.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -474,7 +471,7 @@
       "title": "scSeq_Cx_GABA",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_Cx_GABA.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_Cx_GABA.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -515,7 +512,7 @@
       "title": "scSeq_GN_GABA_Glut",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_GN_GABA_Glut.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_GN_GABA_Glut.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -556,7 +553,7 @@
       "title": "scSeq_M_DOPA",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_M_DOPA.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_M_DOPA.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
@@ -597,7 +594,7 @@
       "title": "scSeq_F_M_Glut",
       "group": "Multiome Viewer",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/scSeq_F_M_Glut.mv",
+      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_F_M_Glut.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
