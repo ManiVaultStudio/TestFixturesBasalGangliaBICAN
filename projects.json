@@ -103,7 +103,7 @@
     {
       "title": "SpatialTx_BasalGanglia",
       "startup": true,
-      "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/raw/refs/heads/main/projects/SpatialTx_BasalGanglia.mv",
+      "url": ""https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects//SpatialTx_BasalGanglia.mv",
       "summary": "",
       "requiredPlugins": [],
       "coreVersion": {
