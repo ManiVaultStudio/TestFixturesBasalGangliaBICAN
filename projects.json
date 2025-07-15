@@ -17,7 +17,7 @@
           "version": "1.0"
         },
 		    {
-          "Namnamee": "H5 Loader (10X, Cell Ranger)",
+          "name": "H5 Loader (10X, Cell Ranger)",
           "repoName": "HDF5Loader",
           "version": "1.0"
         }
