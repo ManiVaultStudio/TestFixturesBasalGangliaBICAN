@@ -5,7 +5,43 @@
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
       "summary": "",
-      "requiredPlugins": ["tSNE Analysis"],
+      "requiredPlugins": [
+        {
+          "Name": "Gene Surfer",
+          "RepoName": "GeneSurfer",
+          "Version": "1.0"
+        },
+        {
+          "Name": "H5AD Loader",
+          "RepoName": "HDF5Loader",
+          "Version": "1.0"
+        },
+		    {
+          "Name": "H5 Loader (10X, Cell Ranger)",
+          "RepoName": "HDF5Loader",
+          "Version": "1.0"
+        },
+        {
+          "Name": "SpaceWalker",
+          "RepoName": "SpaceWalker",
+          "Version": "1.0"
+        },
+        {
+          "Name": "Volume Viewer",
+          "RepoName": "VolumeViewer",
+          "Version": "0.1"
+        },
+        {
+          "Name": "tSNE Analysis",
+          "RepoName": "t-SNE-Analysis",
+          "Version": "1.0"
+        },
+        {
+          "Name": "Scatterplot View",
+          "RepoName": "Scatterplot",
+          "Version": "1.0"
+        }
+      ],
       "coreVersion": {
         "major": 1,
         "minor": 4,
