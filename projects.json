@@ -5,23 +5,7 @@
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
       "summary": "",
-      "requiredPlugins": [
-        {
-          "name": "Gene Surfer",
-          "repoName": "GeneSurfer",
-          "version": "1.0"
-        },
-        {
-          "name": "H5AD Loader",
-          "repoName": "HDF5Loader",
-          "version": "1.0"
-        },
-		    {
-          "name": "H5 Loader (10X, Cell Ranger)",
-          "repoName": "HDF5Loader",
-          "version": "1.0"
-        }
-      ],
+      "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
         "minor": 4,
