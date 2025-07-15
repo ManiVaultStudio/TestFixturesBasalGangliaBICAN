@@ -7,39 +7,19 @@
       "summary": "",
       "requiredPlugins": [
         {
-          "Name": "Gene Surfer",
-          "RepoName": "GeneSurfer",
-          "Version": "1.0"
+          "name": "Gene Surfer",
+          "repoName": "GeneSurfer",
+          "version": "1.0"
         },
         {
-          "Name": "H5AD Loader",
-          "RepoName": "HDF5Loader",
-          "Version": "1.0"
+          "name": "H5AD Loader",
+          "repoName": "HDF5Loader",
+          "version": "1.0"
         },
 		    {
-          "Name": "H5 Loader (10X, Cell Ranger)",
-          "RepoName": "HDF5Loader",
-          "Version": "1.0"
-        },
-        {
-          "Name": "SpaceWalker",
-          "RepoName": "SpaceWalker",
-          "Version": "1.0"
-        },
-        {
-          "Name": "Volume Viewer",
-          "RepoName": "VolumeViewer",
-          "Version": "0.1"
-        },
-        {
-          "Name": "tSNE Analysis",
-          "RepoName": "t-SNE-Analysis",
-          "Version": "1.0"
-        },
-        {
-          "Name": "Scatterplot View",
-          "RepoName": "Scatterplot",
-          "Version": "1.0"
+          "Namnamee": "H5 Loader (10X, Cell Ranger)",
+          "repoName": "HDF5Loader",
+          "version": "1.0"
         }
       ],
       "coreVersion": {
