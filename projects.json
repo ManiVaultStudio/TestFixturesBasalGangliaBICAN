@@ -105,14 +105,14 @@
       "summary": "",
       "requiredPlugins": [
         {
-          "Name": "LinePlotPlugin",
-          "RepoName": "LinePlotPlugin",
-          "Version": "1.0"
+          "name": "LinePlotPlugin",
+          "repoName": "LinePlotPlugin",
+          "version": "1.0"
         },
         {
-          "Name": "LayerSurferPlugin",
-          "RepoName": "LayerSurferPlugin",
-          "Version": "1.0"
+          "name": "LayerSurferPlugin",
+          "repoName": "LayerSurferPlugin",
+          "version": "1.0"
         }
       ],
       "coreVersion": {
