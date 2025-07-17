@@ -180,7 +180,7 @@
         },
         "recommended": {
           "ram": "32GB",
-          "storage": "200GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
@@ -222,7 +222,7 @@
         },
         "recommended": {
           "ram": "32GB",
-          "storage": "200GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
@@ -263,7 +263,7 @@
         },
         "recommended": {
           "ram": "32GB",
-          "storage": "200GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
@@ -304,7 +304,7 @@
         },
         "recommended": {
           "ram": "32GB",
-          "storage": "200GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
@@ -345,7 +345,7 @@
         },
         "recommended": {
           "ram": "32GB",
-          "storage": "200GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
@@ -386,7 +386,7 @@
         },
         "recommended": {
           "ram": "32GB",
-          "storage": "200GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
@@ -509,7 +509,7 @@
         },
         "recommended": {
           "ram": "32GB",
-          "storage": "200GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
@@ -591,7 +591,7 @@
         },
         "recommended": {
           "ram": "32GB",
-          "storage": "200GB",
+          "storage": "100GB",
           "display": {
             "resolution": {
               "horizontal": 2560,
