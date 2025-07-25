@@ -4,16 +4,7 @@
       "title": "PatchSeq_Neocortex",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
-      "summary": "This is a dummy project created solely for testing and demonstration purposes.
-It doesn't serve a real-world function and contains no actual business logic.
-All features described here are fictitious and may not work as stated.
-The project simulates a high-level system with sensors, dashboards, and automation.
-Data is randomly generated and does not reflect real conditions or behavior.
-Any user interface elements are mocked and meant to test layout rendering.
-Backend APIs return static or simulated data with no real computation.
-This project may include sample errors, incomplete code, or intentionally broken flows.
-Its sole purpose is to provide structure during prototyping or UI development.
-Please replace all content with real descriptions before going to production.",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
       "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
@@ -53,16 +44,7 @@ Please replace all content with real descriptions before going to production.",
       "title": "PatchSeq_BasalGanglia",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_BasalGanglia.mv",
-      "summary": "This is a dummy project created solely for testing and demonstration purposes.
-It doesn't serve a real-world function and contains no actual business logic.
-All features described here are fictitious and may not work as stated.
-The project simulates a high-level system with sensors, dashboards, and automation.
-Data is randomly generated and does not reflect real conditions or behavior.
-Any user interface elements are mocked and meant to test layout rendering.
-Backend APIs return static or simulated data with no real computation.
-This project may include sample errors, incomplete code, or intentionally broken flows.
-Its sole purpose is to provide structure during prototyping or UI development.
-Please replace all content with real descriptions before going to production.",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
       "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
@@ -80,16 +62,7 @@ Please replace all content with real descriptions before going to production.",
       "title": "ATACSeq_BasalGanglia",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/ATACSeq_BasalGanglia.mv",
-      "summary": "This is a dummy project created solely for testing and demonstration purposes.
-It doesn't serve a real-world function and contains no actual business logic.
-All features described here are fictitious and may not work as stated.
-The project simulates a high-level system with sensors, dashboards, and automation.
-Data is randomly generated and does not reflect real conditions or behavior.
-Any user interface elements are mocked and meant to test layout rendering.
-Backend APIs return static or simulated data with no real computation.
-This project may include sample errors, incomplete code, or intentionally broken flows.
-Its sole purpose is to provide structure during prototyping or UI development.
-Please replace all content with real descriptions before going to production.",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
       "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
@@ -129,16 +102,7 @@ Please replace all content with real descriptions before going to production.",
       "title": "SpatialTx_BasalGanglia",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/SpatialTx_BasalGanglia.mv",
-      "summary": "This is a dummy project created solely for testing and demonstration purposes.
-It doesn't serve a real-world function and contains no actual business logic.
-All features described here are fictitious and may not work as stated.
-The project simulates a high-level system with sensors, dashboards, and automation.
-Data is randomly generated and does not reflect real conditions or behavior.
-Any user interface elements are mocked and meant to test layout rendering.
-Backend APIs return static or simulated data with no real computation.
-This project may include sample errors, incomplete code, or intentionally broken flows.
-Its sole purpose is to provide structure during prototyping or UI development.
-Please replace all content with real descriptions before going to production.",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
       "requiredPlugins": [
         {
           "name": "LinePlotPlugin",
@@ -190,7 +154,7 @@ Please replace all content with real descriptions before going to production.",
       "group": "Multiome Viewer",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_OPC_Oligo.mv",
-      "summary": "",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
       "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
@@ -232,7 +196,7 @@ Please replace all content with real descriptions before going to production.",
       "group": "Multiome Viewer",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_CN_LGE_GABA.mv",
-      "summary": "",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
       "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
