@@ -4,7 +4,16 @@
       "title": "PatchSeq_Neocortex",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
-      "summary": "",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.
+It doesn't serve a real-world function and contains no actual business logic.
+All features described here are fictitious and may not work as stated.
+The project simulates a high-level system with sensors, dashboards, and automation.
+Data is randomly generated and does not reflect real conditions or behavior.
+Any user interface elements are mocked and meant to test layout rendering.
+Backend APIs return static or simulated data with no real computation.
+This project may include sample errors, incomplete code, or intentionally broken flows.
+Its sole purpose is to provide structure during prototyping or UI development.
+Please replace all content with real descriptions before going to production.",
       "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
@@ -44,7 +53,16 @@
       "title": "PatchSeq_BasalGanglia",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_BasalGanglia.mv",
-      "summary": "",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.
+It doesn't serve a real-world function and contains no actual business logic.
+All features described here are fictitious and may not work as stated.
+The project simulates a high-level system with sensors, dashboards, and automation.
+Data is randomly generated and does not reflect real conditions or behavior.
+Any user interface elements are mocked and meant to test layout rendering.
+Backend APIs return static or simulated data with no real computation.
+This project may include sample errors, incomplete code, or intentionally broken flows.
+Its sole purpose is to provide structure during prototyping or UI development.
+Please replace all content with real descriptions before going to production.",
       "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
@@ -62,7 +80,16 @@
       "title": "ATACSeq_BasalGanglia",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/ATACSeq_BasalGanglia.mv",
-      "summary": "",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.
+It doesn't serve a real-world function and contains no actual business logic.
+All features described here are fictitious and may not work as stated.
+The project simulates a high-level system with sensors, dashboards, and automation.
+Data is randomly generated and does not reflect real conditions or behavior.
+Any user interface elements are mocked and meant to test layout rendering.
+Backend APIs return static or simulated data with no real computation.
+This project may include sample errors, incomplete code, or intentionally broken flows.
+Its sole purpose is to provide structure during prototyping or UI development.
+Please replace all content with real descriptions before going to production.",
       "requiredPlugins": [],
       "coreVersion": {
         "major": 1,
@@ -102,7 +129,16 @@
       "title": "SpatialTx_BasalGanglia",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/SpatialTx_BasalGanglia.mv",
-      "summary": "",
+      "summary": "This is a dummy project created solely for testing and demonstration purposes.
+It doesn't serve a real-world function and contains no actual business logic.
+All features described here are fictitious and may not work as stated.
+The project simulates a high-level system with sensors, dashboards, and automation.
+Data is randomly generated and does not reflect real conditions or behavior.
+Any user interface elements are mocked and meant to test layout rendering.
+Backend APIs return static or simulated data with no real computation.
+This project may include sample errors, incomplete code, or intentionally broken flows.
+Its sole purpose is to provide structure during prototyping or UI development.
+Please replace all content with real descriptions before going to production.",
       "requiredPlugins": [
         {
           "name": "LinePlotPlugin",
