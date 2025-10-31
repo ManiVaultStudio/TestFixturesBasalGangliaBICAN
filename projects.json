@@ -43,7 +43,7 @@
       }
     },
     {
-      "title": "Test:PatchSeq_BasalGanglia",
+      "title": "Test:-----------PatchSeq_BasalGanglia",
       "uuid": "37d5753a-7482-42f6-a444-591da28446c8",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_BasalGanglia.mv",
