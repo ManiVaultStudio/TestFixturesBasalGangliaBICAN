@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "title": "Test:PatchSeq_Neocortex",
+      "title": "Test:-------PatchSeq_Neocortex",
       "uuid": "322a821a-21fd-4993-a50d-4204802fdcb1",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
