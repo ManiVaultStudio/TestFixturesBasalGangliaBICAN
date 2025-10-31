@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "title": "*PatchSeq_Neocortex",
+      "title": "Preprint: PatchSeq_Neocortex",
       "uuid": "322a821a-21fd-4993-a50d-4204802fdcb1",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "title": "*PatchSeq_BasalGanglia",
+      "title": "Preprint: PatchSeq_BasalGanglia",
       "uuid": "37d5753a-7482-42f6-a444-591da28446c8",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_BasalGanglia.mv",
@@ -62,7 +62,7 @@
       "date": "2025-07-01 13:00:00"
     },
     {
-      "title": "*ATACSeq_BasalGanglia",
+      "title": "Preprint: ATACSeq_BasalGanglia",
       "uuid": "e11c8ace-9458-4541-aefe-0727f5025e5a",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/ATACSeq_BasalGanglia.mv",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "title": "SpatialTx_BasalGanglia",
+      "title": "Preprint: SpatialTx_BasalGanglia",
       "uuid": "c7a1396a-497c-4cf2-bcf3-c4e51ce4d8eb",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/SpatialTx_BasalGanglia.mv",
@@ -155,7 +155,7 @@
       }
     },
     {
-      "title": "scSeq_OPC_Oligo",
+      "title": "Preprint: scSeq_OPC_Oligo",
       "uuid": "11b4bded-ea13-40e1-a768-b96ec450cb23",
       "group": "Multiome Viewer",
       "startup": true,
