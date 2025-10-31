@@ -62,7 +62,7 @@
       "date": "2025-07-01 13:00:00"
     },
     {
-      "title": "ATACSeq_BasalGanglia",
+      "title": "999999999999999999ATACSeq_BasalGanglia",
       "uuid": "e11c8ace-9458-4541-aefe-0727f5025e5a",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/ATACSeq_BasalGanglia.mv",
