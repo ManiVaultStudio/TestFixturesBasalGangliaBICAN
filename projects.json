@@ -2,6 +2,7 @@
   "projects": [
     {
       "title": "Test:PatchSeq_Neocortex",
+      "uuid": "322a821a-21fd-4993-a50d-4204802fdcb1",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
       "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
@@ -43,6 +44,7 @@
     },
     {
       "title": "Test:PatchSeq_BasalGanglia",
+      "uuid": "37d5753a-7482-42f6-a444-591da28446c8",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_BasalGanglia.mv",
       "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
@@ -61,6 +63,7 @@
     },
     {
       "title": "ATACSeq_BasalGanglia",
+      "uuid": "e11c8ace-9458-4541-aefe-0727f5025e5a",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/ATACSeq_BasalGanglia.mv",
       "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
@@ -101,6 +104,7 @@
     },
     {
       "title": "SpatialTx_BasalGanglia",
+      "uuid": "c7a1396a-497c-4cf2-bcf3-c4e51ce4d8eb",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/SpatialTx_BasalGanglia.mv",
       "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
@@ -152,6 +156,7 @@
     },
     {
       "title": "scSeq_OPC_Oligo",
+      "uuid": "11b4bded-ea13-40e1-a768-b96ec450cb23",
       "group": "Multiome Viewer",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_OPC_Oligo.mv",
@@ -194,6 +199,7 @@
     ,
     {
       "title": "scSeq_CN_LGE_GABA",
+      "uuid": "322a821a-21fd-4993-a50d-4204802fdcb1",
       "group": "Multiome Viewer",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_CN_LGE_GABA.mv",
@@ -235,6 +241,7 @@
     },
     {
       "title": "scSeq_Vascular",
+      "uuid": "322a821a-21fd-4993-a50d-4204802fdcb1",
       "group": "Multiome Viewer",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_Vascular.mv",
@@ -276,6 +283,7 @@
     },
     {
       "title": "scSeq_Immune",
+      "uuid": "322a821a-21fd-4993-a50d-4204802fdcb1",
       "group": "Multiome Viewer",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_Immune.mv",
@@ -358,6 +366,7 @@
     },
     {
       "title": "scSeq_CN_MGE_GABA",
+      "uuid": "322a821a-21fd-4993-a50d-4204802fdcb1",
       "group": "Multiome Viewer",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/scSeq_CN_MGE_GABA.mv",
