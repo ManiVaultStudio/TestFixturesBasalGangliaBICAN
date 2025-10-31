@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "title": "Test:-------PatchSeq_Neocortex",
+      "title": "*PatchSeq_Neocortex",
       "uuid": "322a821a-21fd-4993-a50d-4204802fdcb1",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "title": "Test:-----------PatchSeq_BasalGanglia",
+      "title": "*PatchSeq_BasalGanglia",
       "uuid": "37d5753a-7482-42f6-a444-591da28446c8",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_BasalGanglia.mv",
@@ -62,7 +62,7 @@
       "date": "2025-07-01 13:00:00"
     },
     {
-      "title": "999999999999999999ATACSeq_BasalGanglia",
+      "title": "*ATACSeq_BasalGanglia",
       "uuid": "e11c8ace-9458-4541-aefe-0727f5025e5a",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/ATACSeq_BasalGanglia.mv",
