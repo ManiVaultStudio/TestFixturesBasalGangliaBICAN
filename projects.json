@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "title": "PatchSeq_Neocortex",
+      "title": "Test:PatchSeq_Neocortex",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_Neocortex.mv",
       "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "title": "PatchSeq_BasalGanglia",
+      "title": "Test:PatchSeq_BasalGanglia",
       "startup": true,
       "url": "https://github.com/ManiVaultStudio/TestFixturesBasalGangliaBICAN/releases/download/projects/PatchSeq_BasalGanglia.mv",
       "summary": "This is a dummy project created solely for testing and demonstration purposes.\nIt doesn't serve a real-world function and contains no actual business logic.\nAll features described here are fictitious and may not work as stated.\nThe project simulates a high-level system with sensors, dashboards, and automation.\nData is randomly generated and does not reflect real conditions or behavior.\nAny user interface elements are mocked and meant to test layout rendering.\nBackend APIs return static or simulated data with no real computation.\nThis project may include sample errors, incomplete code, or intentionally broken flows.\nIts sole purpose is to provide structure during prototyping or UI development.\nPlease replace all content with real descriptions before going to production.",
